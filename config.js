@@ -1,15 +1,15 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮SHEWON MD BOT 2022 ®️ALL RIGHTS RESERVED
+//▮KING ALPHA BOT 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
-//▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
-//▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
+//▮http://ninja.ml/
+//▮WHATSAPP US : +94 74 120 9621
+//▮YOUTUBE CHANNELL: https://youtube.com/c/DinuxBro
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -17,7 +17,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING SHEWON-BOT
+//┃THANKS FOR CHOOSING KING ALPHA
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94784997828','']
-global.premium = ['94784997828','94784997828']
-global.botname = 'SHEWON MD BOT'
-global.ownername = 'Shewon'
+global.owner = ['94741209621','']
+global.premium = ['94741209621','94741209621']
+global.botname = 'KING ALPHA BOT'
+global.ownername = 'ALPHA NINJA'
 global.group1 = 'https://chat.whatsapp.com/Fm4u0QPs077451u4WIk6Lt'
 global.group2 = 'https://chat.whatsapp.com/KIcwDEHyuoL4SjxQgVW5gZ'
-global.packname = 'SHEWON MD BOT'
-global.ytchannel = 'https://youtube.com/c/slcartooninstudio'
+global.packname = 'KING ALPHA BOT'
+global.ytchannel = 'https://youtube.com/c/DinuxBro'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
