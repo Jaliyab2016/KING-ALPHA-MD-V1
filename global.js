@@ -1,7 +1,7 @@
 //global
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮SHEWON MD BOT 2022 ®️ALL RIGHTS RESERVED
+//▮ᴋɪɴɢ ᴀʟᴘʜᴀ 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -10,7 +10,7 @@
 //▮REPORT ABUSE OF THIS SOFTWARE
 //▮http://shewon.ml/
 //▮WHATSAPP US : +94 74 120 9621
-//▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
+//▮YOUTUBE CHANNELL: https://youtube.com/c/DinuxBro
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
