@@ -8,7 +8,7 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
 //▮http://alpha.ml/
-//▮WHATSAPP US : +94 78 499 7828
+//▮WHATSAPP US : +94 74 120 9621
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DinuxBro
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -71,7 +71,7 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 limitawal = '100'
 botname = 'KING ALPHA BOT'
 wm = 'KING ALPHA BOT'
-global.reactmoji = '🎲'
+global.reactmoji = '📂'
 limitCount = setting.limit
 
 //read database
@@ -257,8 +257,8 @@ if(time2 < "05:00:00"){
 var ucapannya2 = `Good morning 🌅`
 }
 
-global.botdev = ['94784997828']
-global.bothelp = ['94784997828']
+global.botdev = ['94741209621']
+global.bothelp = ['94741209621']
 
 //function rpg
    const { 
