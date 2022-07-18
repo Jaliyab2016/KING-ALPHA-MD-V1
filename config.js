@@ -7,7 +7,7 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
-//▮http://ninja.ml/
+//▮http://alpha.ml/
 //▮WHATSAPP US : +94 74 120 9621
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DinuxBro
 //▮
