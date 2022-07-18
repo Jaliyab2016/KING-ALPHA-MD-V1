@@ -652,7 +652,7 @@ const listmsg = (from, title, desc, list) => { // ngeread nya pake rowsId, jadi 
         if (db.data.chats[m.chat].antiinstagram) {
         if (budy.includes("https://www.instagram.com/")){
      if (!isBotAdmins) return
-     zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n\n*you are admn okay*`
+     zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n\n*you are admin okay*`
      if (isAdmins) return m.reply(zimbotv3)
      if (m.key.fromMe) return m.reply(zimbotv3)
      if (isCreator) return m.reply(zimbotv3)
@@ -5894,7 +5894,7 @@ case 'fb2': case 'facebook2': {
             kurangLimit(m.sender, 1)
             m.reply(`*1 limit used*`)
                 anu = await fetchJson(`https://violetics.pw/api/downloader/facebook?apikey=${setting.violkey}&url=${text}`)
-                tummb = await getBuffer('https://telegra.ph/file/9789a09c964cee5597a05.jpg')    
+                tummb = await getBuffer('https://telegra.ph/file/b79639385d102509866b3.jpg')    
                 ZimBotInc.sendMessage(m.chat, { video: { url: anu.result.url[0].url }, jpegThumbnail:tummb, caption: `*📽️ FACEBOOK DOWNLOADER*\n\n*Name* : ${anu.result.meta.title}\n*Quality* : ${anu.result.url[0].subname}\n*Ext* : ${anu.result.url[0].ext}\n`}, { quoted: m }).catch((err) => m.reply('*Sorry, the feature is in error*'))
             }
             break
@@ -7044,7 +7044,7 @@ anu = `*✧ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*
 ┃ *✧ʀᴏʟᴇ: ${role}*
 ┃ *✧ʟᴇᴠᴇʟ:* ${Levele2} 
 ┃ *✧ᴄᴀʟᴇɴᴅᴀʀ:* *${thisDay}*, *${day}* 
-┃ *✧ᴛɪᴍᴇ:* *${moment.tz('SriLanka/Kegalle').format('HH:mm:ss')}*
+┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Colombo/SriLanka').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
 ┃https://bit.ly/3AYWyPs
@@ -7789,7 +7789,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://bit.ly/3cgVaNR
+┃https://bit.ly/3AYWyPs
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                ᴋɪɴɢ-ᴀʟᴘʜᴀ
